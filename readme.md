@@ -1,5 +1,4 @@
-# Three.js Journey
-
+배포 : https://scroll-based-animation-gray.vercel.app/
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
 Run this followed commands:
